@@ -1,2 +1,5 @@
 node_modules
 npm-debug.log
+
+# lock file (generated locally, not tracked)
+package-lock.json
